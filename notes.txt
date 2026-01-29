@@ -1,0 +1,25 @@
+---------------------------------
+      MY TICKETS
+---------------------------------
+[ 🔍 Search tickets...          ]
+---------------------------------
+( All ) ( Waiting ) ( Resolved )  <-- Scrollable Filters
+---------------------------------
+
+[Blue Line]  <-- Low Priority indicator
+|  REQ: RLX-YEB-6NZN            |
+|  **Internet is down** |
+|  [🟢 Replied] • Yesterday     |
+---------------------------------
+
+[Yellow Line] <-- High Priority indicator
+|  REQ: DE9-6GJ-9JW8            |
+|  **My online account is...** |
+|  [🟡 Waiting Reply] • Yesterday|
+---------------------------------
+
+[Blue Line]
+|  REQ: DNB-33Y-PGEZ            |
+|  **Fare çalışmıyor** |
+|  [🟢 Replied] • Yesterday     |
+---------------------------------
