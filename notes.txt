@@ -23,3 +23,13 @@
 |  **Fare çalışmıyor** |
 |  [🟢 Replied] • Yesterday     |
 ---------------------------------
+
+status:
+-Waiting Reply / Orange
+-Replied / Blue
+-Needs Review / Purple
+-Resolved / Green
+
+red 
+yellow
+blue
